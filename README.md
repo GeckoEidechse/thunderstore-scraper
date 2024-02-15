@@ -1,6 +1,6 @@
 # thunderstore-scraper
 
-A simple Python script written for personal use to scrape the Nortstar Thunderstore and download the latest release of mods for local analysis.
+A simple Python script written for personal use to scrape the Northstar Thunderstore and download the latest release of mods for local analysis.
 
 ## Usage
 
